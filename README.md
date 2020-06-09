@@ -15,7 +15,11 @@
 * performance_schema 系列已完成上传
 
 ### [sys schema详解](https://github.com/xiaoboluo768/mysql-system-schema/wiki/sys-schema%E8%AF%A6%E8%A7%A3)
-* sys schema 系列即将上传
+* sys schema 系列已完成上传
+
+------
+
+开始  |  下一篇： [information_schema详解目录](https://github.com/xiaoboluo768/mysql-system-schema/wiki/information_schema%E8%AF%A6%E8%A7%A3) 
 
 ------
 
