@@ -3,7 +3,9 @@
 
 * <b style="color:green">我们在2019年11月出版的新书《千金良方--MySQL 性能优化金字塔法则》一书中，也针对这几个系统字典库做了大量篇幅的介绍，并增加了大量的使用案例，如有购书需求可自行前往 京东、当当等平台购买。</b>
 
-* <b style="color:red">提示：以下4个系列文章的内容，相比我们之前在任何公开平台中推动的内容，将更加详细</b>
+* <b style="color:red">提示：</b>
+  * <b style="color:red">以下4个系列文章的内容，相比我们之前在任何公开平台中推动的内容，将更加详细</b>
+  * <b style="color:red">以下4个系列文章的内容，将以4个子目录树分别展开介绍，更多详细内容，请点击各个子目录树中的"蓝色"字体超链接进行查看</b>
 
 ### [information_schema详解](https://github.com/xiaoboluo768/mysql-system-schema/wiki/information_schema%E8%AF%A6%E8%A7%A3)
 * information_schema 系列已完成上传
