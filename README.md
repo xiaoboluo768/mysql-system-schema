@@ -25,6 +25,6 @@
 
 ------
 
-* 翻译、验证、测试、整理：罗小波
+* 验证、测试、整理：罗小波
 * QQ：309969177
-* 提示：本系列文章的主体基于Oracle MySQL 官方 5.7 手册中，关于information_schema、mysql schema、performance_schema、sys schema的章节翻译整理，并额外添加了一些验证、测试数据。鉴于本人精力和能力有限，难免出现一些纰漏，欢迎大家踊跃指正！
+* 提示：本系列文章的主体结构遵循Oracle MySQL 官方 5.7 手册中，关于information_schema、mysql schema、performance_schema、sys schema的章节结构，并额外添加了一些验证、测试数据。鉴于本人精力和能力有限，难免出现一些纰漏，欢迎大家踊跃指正！
